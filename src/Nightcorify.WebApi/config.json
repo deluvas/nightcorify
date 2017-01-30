@@ -1,0 +1,11 @@
+﻿{
+  "sqliteConnection": "data source=../data/jobs.db;version=3;pooling=true;min pool size=2;max pool size=5",
+  "content": {
+    "baseUrl": "http://localhost:9010/processed",
+    "dir": "../cache",
+    "tmpDir": "../tmp"
+  },
+  "ffmpeg": {
+    "path": "C:\\Users\\Deluvas\\Desktop\\ffmpeg\\bin\\ffmpeg.exe"
+  }
+}

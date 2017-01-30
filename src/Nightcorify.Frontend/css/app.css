@@ -1,0 +1,29 @@
+.container {
+  max-width: 790px !important;
+}
+
+.header-row {
+  margin-top: 25px;
+}
+
+.title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 22pt;
+}
+
+label {
+  font-weight: bold;
+}
+
+.card-result {
+  margin-top: 25px;
+}
+
+.hide {
+  display: none;
+}
+
+.player {
+  display: block;
+}
